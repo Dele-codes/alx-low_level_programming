@@ -1,7 +1,7 @@
 #include "main.h"
+
 /**
- * print_alphabet - prints the alphabet in lower case, followed by a new libe
- *
+ * print_alphabet - prints the alphabe, in lowercase, followed by a new line
  */
 void print_alphabet(void)
 {
@@ -15,5 +15,5 @@ void print_alphabet(void)
 		ch++;
 	}
 
-	_putchar("\n");
+	_putchar('\n');
 }
